@@ -1,0 +1,20 @@
+{
+  "name": "stackr",
+  "version": "0.1.0",
+  "description": "A simple http module system for node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.test.js"
+  },
+  "author": "Matt Dunlap <mpdunlap@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Prestaul/stackr.git"
+  },
+  "devDependencies": {
+    "jshint": "~2.1.11",
+    "mocha": "~1.13.0",
+    "chai": "~1.8.1"
+  }
+}
